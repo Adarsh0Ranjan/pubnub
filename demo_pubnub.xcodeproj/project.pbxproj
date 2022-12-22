@@ -45,6 +45,7 @@
 		411F1E7529541B3300D03923 = {
 			isa = PBXGroup;
 			children = (
+				411F1E9929541E0900D03923 /* pods */,
 				411F1E7A29541B3300D03923 /* Shared */,
 				411F1E8929541B3500D03923 /* macOS */,
 				411F1E8329541B3500D03923 /* Products */,
@@ -76,6 +77,13 @@
 				411F1E8A29541B3500D03923 /* macOS.entitlements */,
 			);
 			path = macOS;
+			sourceTree = "<group>";
+		};
+		411F1E9929541E0900D03923 /* pods */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = pods;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
